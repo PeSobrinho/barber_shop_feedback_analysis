@@ -1,0 +1,8 @@
+pandas
+psycopg2
+sqlalchemy
+python-dotenv
+nltk
+re
+string
+unicode
